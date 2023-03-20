@@ -1,10 +1,10 @@
 # Hi, I'm Satria Nur Saputro! 👋
 # 💫 About Me:
 🧠 I'm currently learning machine learning, data and web development, and have strong problem-solving skills and experience.
-😄 Pronouns: 0.0001 change everything.
+😄 Pronouns: 0.0001s change everything.
 ⚡️ Fun fact : We create the world.
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Jkenyut)
+All of my projects are available at :  [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Jkenyut)
 
 ## 🌐 Socials: How to reach me....🔗
 
@@ -36,7 +36,7 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 
 
-SERVERS
+- SERVERS
 
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
 

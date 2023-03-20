@@ -49,11 +49,14 @@ SERVERS
 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 # 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jkenyut&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
 ![](https://github-readme-stats.vercel.app/api?username=Jkenyut&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Jkenyut&theme=dark&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jkenyut&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
 
 ---
 

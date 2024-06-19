@@ -2,11 +2,11 @@
 
 # Hi, I'm Satria Nur Saputro! 👋
 # 💫 About Me:
-🧠 I'm currently learning machine learning, data and web development. I feel very excited to learn more about this technology and to continue improving my skills in this field. I am delighted to talk to someone who shares the same interest as me. I have strong problem-solving skills and experience.
+🧠 My name is Satria Nur Saputro. As a web developer, my passion for technology drives me to continually stay updated with the latest advancements and enhance my skills to progress in my career. I take pride in sharing knowledge and collaborating with like-minded professionals. I am known for my innovation, problem-solving skills, professionalism, meticulous organization, expert time management, collaborative teamwork, quick learning capabilities, deep commitment, and strong motivation.
 
-😄 Motto: 0.0001 change everything.
+😄 Motto: 0.0001 seconds can change everything.
 
-⚡️ Fun fact : We create the world.
+⚡️ Fun fact: We create the world.
 
 All of my projects are available at :  [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Jkenyut?tab=repositories)
 

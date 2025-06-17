@@ -123,7 +123,7 @@ Explore my projects below to see my work in action! 🚀
   92% accuracy.
     - **Published**: "Clickbait News Headline Classification Using RNN-LSTM" (Sinta 3), achieving up to 79% accuracy.
     - **Certified**: Database Programmer (BNSP), AI Mastery (Orbit Future Academy), Architecting on AWS (Dicoding),
-      Applied Machine Learning Development (Dicoding), Node.js Development (Progate), TOEFL - ECT (ITTP).
+      Applied Machine Learning Development (Dicoding), Node.js Development (Progate), TOEFL - ECT (ITTP), NodeJS - The Complete Guide (Udemy).
     - **Academic Excellence**: Graduated with a 3.94 GPA (cum laude) in Informatics Engineering from Telkom Purwokerto
       Institute of Technology.
     - **Capstone Project**: Developed "Employee Feedback Analysis Using Face Recognition and a BERT-based Website,"
